@@ -164,7 +164,7 @@ section{
     min-height: 90vh;
     display: flex;
     align-items: center;
-    background-image: url('img/pexels-athena-2972890.jpg');
+    background-image: url('img/patio.jpg');
     background-size: cover;
     background-position:  bottom;
 }
@@ -258,16 +258,16 @@ section{
     background-image: url("img/288677935_5824538100907494_7347436115025097013_n.jpg");
 }
 .box-3{
-    background-image: url("img/288854857_5824538224240815_914397915190760503_n.jpg");
+    background-image: url("img/288883148_5824538004240837_2571839234332007354_n.jpg");
 }
 .box-4{
-    background-image: url("img/288883148_5824538004240837_2571839234332007354_n.jpg");
+    background-image: url("img/box1.jpg");
 }
 .box-5{
     background-image: url("img/pexels-marianne-238377.jpg");
 }
 .box-6{
-    background-image: url("img/pexels-marianne-238385.jpg");
+    background-image: url("img/box2.jpg");
 }
 
 /*  end */
