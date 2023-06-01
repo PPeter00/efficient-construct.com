@@ -264,10 +264,16 @@ section{
     background-image: url("img/box1.jpg");
 }
 .box-5{
-    background-image: url("img/pexels-marianne-238377.jpg");
+    background-image: url("img/box3.jpg");
 }
 .box-6{
     background-image: url("img/box2.jpg");
+}
+.box-7{
+    background-image: url("pexels-marianne-238385.jpg");
+}
+.box-8{
+    background-image: url("img/box4.jpg");
 }
 
 /*  end */
