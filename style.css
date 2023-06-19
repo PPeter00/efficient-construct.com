@@ -164,7 +164,7 @@ section{
     min-height: 90vh;
     display: flex;
     align-items: center;
-    background-image: url('img/main.jpg');
+    background-image: url('img/box3.jpg');
     background-size: cover;
     background-position:  bottom;
 }
